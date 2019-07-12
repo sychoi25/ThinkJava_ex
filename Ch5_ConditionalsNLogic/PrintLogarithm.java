@@ -18,7 +18,7 @@ public class PrintLogarithm {
 		
 		//while(true) {
 		System.out.print("Input> ");
-		double d = scn.nextInt();
+		double d = scn.nextDouble();
 		printLogarithm(d);
 	}
 	//}
