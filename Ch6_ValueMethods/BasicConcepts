@@ -1,9 +1,0 @@
-Value methods:
-1> Declare the type of the return value
-2> Use at least one "return" statement to provide a return value
-
-cf) Void doesn't return values
-
-
-Overloading:
-having more than 1 methods with the same name, taking different parameters
