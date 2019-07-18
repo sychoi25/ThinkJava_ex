@@ -1,3 +1,4 @@
+<while>
 while(condition){
   body
 }
@@ -6,6 +7,7 @@ while(condition){
                      F -> skip
 
 
+<for>
 for(initializer;condition;update){
 
 }
@@ -14,3 +16,11 @@ for(initializer;condition;update){
 condition: checked each time
 update: at the end of each iteration
 *the variable declared in the initializer only exists inside the for loop!
+
+** While & For : pretest loops
+;test the condition first & at the beginning
+
+
+<Do-While>
+*:posttest loop
+->useful when need to run the body at least once
