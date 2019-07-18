@@ -1,0 +1,10 @@
+&& / || / !
+
+T && T => True
+T && F => False
+F && anything => (always) False
+
+
+F || F => False
+F || T => True
+T || anything => (always) True
