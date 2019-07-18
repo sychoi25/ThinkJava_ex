@@ -1,1 +1,16 @@
-ss
+while(condition){
+  body
+}
+
+*if the condition is T -> execute the body
+                     F -> skip
+
+
+for(initializer;condition;update){
+
+}
+
+*initializer: once ran
+condition: checked each time
+update: at the end of each iteration
+*the variable declared in the initializer only exists inside the for loop!
