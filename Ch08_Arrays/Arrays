@@ -1,3 +1,9 @@
 Arrays: store multiple values of the same type using a single variable
 
 Int Arrays: elemets are initialized to "0(zero)"
+
+**
+double [] a = new double[3];
+double [] b = a;
+=> 1 array of 3 doubles has created.
+   2 different variables(a&b) refer to the array.
