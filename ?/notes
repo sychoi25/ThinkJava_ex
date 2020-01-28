@@ -1,0 +1,11 @@
+1. public static void
+> public
+: the method is visible & can be called from other objects 
+<-> private, protected
+
+>static
+: method is associated with the class, not a specific instance of that class
+-> can call a static method w/o creating an object of the class
+
+>void
+: no return value
